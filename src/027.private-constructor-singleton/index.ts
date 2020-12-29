@@ -1,4 +1,4 @@
-class Database {
+export class Database {
   private static database: Database;
 
   constructor(
