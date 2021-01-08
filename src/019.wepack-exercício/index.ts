@@ -1,1 +1,2 @@
-import './form-controls';
+// import './form-controls';
+import '../034.exercicio-video/index';
